@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1651931592 source:d:\utp\estrucutura de datos\unidad 4\arboles mi pc\arbolesbinarios\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdlib>
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<math.h>
+	"tabABB.h"
+	"AVL.h"
+	"rojonegro.h"
+
+1651934519 d:\utp\estrucutura de datos\unidad 4\arboles mi pc\arbolesbinarios\tababb.h
+	<iostream>
+	<cstdlib>
+
+1650894350 d:\utp\estrucutura de datos\unidad 4\arboles mi pc\arbolesbinarios\avl.h
+	<cstdlib>
+	<iostream>
+
+1650894350 d:\utp\estrucutura de datos\unidad 4\arboles mi pc\arbolesbinarios\rojonegro.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<math.h>
+
