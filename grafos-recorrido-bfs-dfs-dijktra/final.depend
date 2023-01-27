@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1653974179 source:c:\users\manuela\desktop\final grafos\final\final\main.cpp
+	"TADgrafo.h"
+	<iostream>
+
+1653975038 c:\users\manuela\desktop\final grafos\final\final\tadgrafo.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<list>
+	<stdio.h>
+	<queue>
+
+1654051992 source:d:\utp\estrucutura de datos\final grafos\final\final\main.cpp
+	"TADgrafo.h"
+	<iostream>
+
+1654053919 d:\utp\estrucutura de datos\final grafos\final\final\tadgrafo.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<list>
+	<stdio.h>
+	<vector>
+	<queue>
+	"iostream"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
